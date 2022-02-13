@@ -1,0 +1,5 @@
+# Ignore macOS folder custom attributes
+.DS_Store
+
+# Ignore PyCHarm IDE config files
+.idea
